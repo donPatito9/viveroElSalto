@@ -1,0 +1,15 @@
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\ElSalto_NEGOCIO.dll.config
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\ElSalto_NEGOCIO.dll
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\ElSalto_NEGOCIO.pdb
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\ElSalto_DALC.dll
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\EntityFramework.dll
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\ElSalto_DALC.pdb
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\ElSalto_DALC.dll.config
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\EntityFramework.xml
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\obj\Release\ElSalto_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\obj\Release\ElSalto_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\obj\Release\ElSalto_NEGOCIO.csproj.CopyComplete
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\obj\Release\ElSalto_NEGOCIO.dll
+C:\Users\donpa\Desktop\Vivero El Salto - Plantas De Magallanes\ElSalto_NEGOCIO\obj\Release\ElSalto_NEGOCIO.pdb

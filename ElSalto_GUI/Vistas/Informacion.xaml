@@ -1,0 +1,33 @@
+﻿<Window x:Class="ElSalto_GUI.Vistas.Informacion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ElSalto_GUI.Vistas"
+        mc:Ignorable="d"
+        Title="Informacion" Height="450" Width="800">
+    
+        <Grid HorizontalAlignment="Right" Width="800">
+        
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+                <Label Content="Nombre Desarrollador :" HorizontalAlignment="Left" Margin="80,89,0,0" VerticalAlignment="Top"/>
+
+                <Label Content="Año desarrollo :" HorizontalAlignment="Left" Margin="77,134,0,0" VerticalAlignment="Top"/>
+
+                <Label Content="Nombre Instituto :" HorizontalAlignment="Right" Margin="0,178,615,0" VerticalAlignment="Top"/>
+        
+                <Label Content="Nombre Carrera :" HorizontalAlignment="Right" Margin="0,224,619,0" VerticalAlignment="Top"/>
+
+                <TextBox HorizontalAlignment="Left" Margin="320,94,0,0" TextWrapping="NoWrap" Text="Robinson Concha" VerticalAlignment="Top" Width="120"/>
+
+                <TextBox HorizontalAlignment="Left" Margin="320,136,0,0" TextWrapping="NoWrap" Text="2022" VerticalAlignment="Top" Width="120"/>
+
+                <TextBox HorizontalAlignment="Left" Margin="320,184,0,0" TextWrapping="NoWrap" Text="IPlacex" VerticalAlignment="Top" Width="120"/>
+
+                <TextBox HorizontalAlignment="Left" Margin="320,229,0,0" TextWrapping="NoWrap" Text="Igenieria Informática" VerticalAlignment="Top" Width="120" Height="20"/>
+         </Grid>
+</Window>
